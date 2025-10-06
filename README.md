@@ -61,7 +61,7 @@ Before running this application, ensure you have:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/todo-app.git
+git clone [https://github.com/yourusername/todo-app.git](https://github.com/SanyamBinayake/Todo-app.git)
 cd todo-app
 ```
 
